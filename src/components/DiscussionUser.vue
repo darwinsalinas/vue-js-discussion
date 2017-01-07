@@ -75,7 +75,7 @@
         if(this.name === ""){
           name = "Guest"
         }
-        console.log('enviando los datos ' + this. name)
+        console.log('enviando los datos ' + this. name);
       }
   },
   created() {
